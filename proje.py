@@ -108,17 +108,3 @@ except:
 
 
 
-# print(baglanti.scan())
-
-
-
- 
-# if  baglanti.timehesap()  == "yes":
-#    baglanti = networkscan(timer=1455,durum="vakit",network="127.0.0.1")
-#    print(baglanti.scan())
-
-
-
-#     scan('127.0.0.1')
-# else:
-#    print('şuan network scan zamanı değil Edit:By Recep Demir')
